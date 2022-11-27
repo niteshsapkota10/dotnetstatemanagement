@@ -1,0 +1,88 @@
+C:\Users\Praditya\source\repos\StateManagementDemo\StateManagementDemo\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Praditya\source\repos\StateManagementDemo\StateManagementDemo\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Praditya\source\repos\StateManagementDemo\StateManagementDemo\bin\Debug\netcoreapp3.1\StateManagementDemo.exe
+C:\Users\Praditya\source\repos\StateManagementDemo\StateManagementDemo\bin\Debug\netcoreapp3.1\StateManagementDemo.deps.json
+C:\Users\Praditya\source\repos\StateManagementDemo\StateManagementDemo\bin\Debug\netcoreapp3.1\StateManagementDemo.runtimeconfig.json
+C:\Users\Praditya\source\repos\StateManagementDemo\StateManagementDemo\bin\Debug\netcoreapp3.1\StateManagementDemo.runtimeconfig.dev.json
+C:\Users\Praditya\source\repos\StateManagementDemo\StateManagementDemo\bin\Debug\netcoreapp3.1\StateManagementDemo.dll
+C:\Users\Praditya\source\repos\StateManagementDemo\StateManagementDemo\bin\Debug\netcoreapp3.1\StateManagementDemo.pdb
+C:\Users\Praditya\source\repos\StateManagementDemo\StateManagementDemo\bin\Debug\netcoreapp3.1\StateManagementDemo.Views.dll
+C:\Users\Praditya\source\repos\StateManagementDemo\StateManagementDemo\bin\Debug\netcoreapp3.1\StateManagementDemo.Views.pdb
+C:\Users\Praditya\source\repos\StateManagementDemo\StateManagementDemo\obj\Debug\netcoreapp3.1\StateManagementDemo.csprojAssemblyReference.cache
+C:\Users\Praditya\source\repos\StateManagementDemo\StateManagementDemo\obj\Debug\netcoreapp3.1\StateManagementDemo.AssemblyInfoInputs.cache
+C:\Users\Praditya\source\repos\StateManagementDemo\StateManagementDemo\obj\Debug\netcoreapp3.1\StateManagementDemo.AssemblyInfo.cs
+C:\Users\Praditya\source\repos\StateManagementDemo\StateManagementDemo\obj\Debug\netcoreapp3.1\StateManagementDemo.csproj.CoreCompileInputs.cache
+C:\Users\Praditya\source\repos\StateManagementDemo\StateManagementDemo\obj\Debug\netcoreapp3.1\StateManagementDemo.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Praditya\source\repos\StateManagementDemo\StateManagementDemo\obj\Debug\netcoreapp3.1\StateManagementDemo.RazorAssemblyInfo.cache
+C:\Users\Praditya\source\repos\StateManagementDemo\StateManagementDemo\obj\Debug\netcoreapp3.1\StateManagementDemo.RazorAssemblyInfo.cs
+C:\Users\Praditya\source\repos\StateManagementDemo\StateManagementDemo\obj\Debug\netcoreapp3.1\staticwebassets\StateManagementDemo.StaticWebAssets.Manifest.cache
+C:\Users\Praditya\source\repos\StateManagementDemo\StateManagementDemo\obj\Debug\netcoreapp3.1\staticwebassets\StateManagementDemo.StaticWebAssets.xml
+C:\Users\Praditya\source\repos\StateManagementDemo\StateManagementDemo\obj\Debug\netcoreapp3.1\scopedcss\bundle\StateManagementDemo.styles.css
+C:\Users\Praditya\source\repos\StateManagementDemo\StateManagementDemo\obj\Debug\netcoreapp3.1\StateManagementDemo.TagHelpers.input.cache
+C:\Users\Praditya\source\repos\StateManagementDemo\StateManagementDemo\obj\Debug\netcoreapp3.1\StateManagementDemo.TagHelpers.output.cache
+C:\Users\Praditya\source\repos\StateManagementDemo\StateManagementDemo\obj\Debug\netcoreapp3.1\StateManagementDemo.RazorCoreGenerate.cache
+C:\Users\Praditya\source\repos\StateManagementDemo\StateManagementDemo\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Praditya\source\repos\StateManagementDemo\StateManagementDemo\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Praditya\source\repos\StateManagementDemo\StateManagementDemo\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Praditya\source\repos\StateManagementDemo\StateManagementDemo\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Praditya\source\repos\StateManagementDemo\StateManagementDemo\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Praditya\source\repos\StateManagementDemo\StateManagementDemo\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Praditya\source\repos\StateManagementDemo\StateManagementDemo\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Praditya\source\repos\StateManagementDemo\StateManagementDemo\obj\Debug\netcoreapp3.1\StateManagementDemo.RazorTargetAssemblyInfo.cache
+C:\Users\Praditya\source\repos\StateManagementDemo\StateManagementDemo\obj\Debug\netcoreapp3.1\StateManagementDemo.RazorTargetAssemblyInfo.cs
+C:\Users\Praditya\source\repos\StateManagementDemo\StateManagementDemo\obj\Debug\netcoreapp3.1\StateManagementDemo.Views.pdb
+C:\Users\Praditya\source\repos\StateManagementDemo\StateManagementDemo\obj\Debug\netcoreapp3.1\StateManagementDemo.dll
+C:\Users\Praditya\source\repos\StateManagementDemo\StateManagementDemo\obj\Debug\netcoreapp3.1\StateManagementDemo.pdb
+C:\Users\Praditya\source\repos\StateManagementDemo\StateManagementDemo\obj\Debug\netcoreapp3.1\StateManagementDemo.genruntimeconfig.cache
+C:\Users\Praditya\source\repos\StateManagementDemo\StateManagementDemo\obj\Debug\netcoreapp3.1\StateManagementDemo.csproj.CopyComplete
+C:\Users\Praditya\source\repos\StateManagementDemo\StateManagementDemo\obj\Debug\netcoreapp3.1\Razor\Views\Temp\First.cshtml.g.cs
+C:\Users\Praditya\source\repos\StateManagementDemo\StateManagementDemo\obj\Debug\netcoreapp3.1\Razor\Views\Temp\Second.cshtml.g.cs
+C:\Users\Praditya\source\repos\StateManagementDemo\StateManagementDemo\obj\Debug\netcoreapp3.1\Razor\Views\Temp\Third.cshtml.g.cs
+C:\Users\Praditya\source\repos\StateManagementDemo\StateManagementDemo\obj\Debug\netcoreapp3.1\Razor\Views\Welcome\Get.cshtml.g.cs
+C:\Users\Praditya\source\repos\StateManagementDemo\StateManagementDemo\obj\Debug\netcoreapp3.1\Razor\Views\Welcome\GetQueryString.cshtml.g.cs
+C:\Users\Praditya\source\repos\StateManagementDemo\StateManagementDemo\obj\Debug\netcoreapp3.1\Razor\Views\Welcome\Index.cshtml.g.cs
+C:\Users\Praditya\source\repos\StateManagementDemo\StateManagementDemo\obj\Debug\netcoreapp3.1\Razor\Views\Welcome\SetHiddenFieldValue.cshtml.g.cs
+C:\Users\lioni\OneDrive\Desktop\Lab Reports\6thsem\NCC\c#files\StateManagementDemo\StateManagementDemo\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\lioni\OneDrive\Desktop\Lab Reports\6thsem\NCC\c#files\StateManagementDemo\StateManagementDemo\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\lioni\OneDrive\Desktop\Lab Reports\6thsem\NCC\c#files\StateManagementDemo\StateManagementDemo\bin\Debug\netcoreapp3.1\StateManagementDemo.StaticWebAssets.xml
+C:\Users\lioni\OneDrive\Desktop\Lab Reports\6thsem\NCC\c#files\StateManagementDemo\StateManagementDemo\bin\Debug\netcoreapp3.1\StateManagementDemo.exe
+C:\Users\lioni\OneDrive\Desktop\Lab Reports\6thsem\NCC\c#files\StateManagementDemo\StateManagementDemo\bin\Debug\netcoreapp3.1\StateManagementDemo.deps.json
+C:\Users\lioni\OneDrive\Desktop\Lab Reports\6thsem\NCC\c#files\StateManagementDemo\StateManagementDemo\bin\Debug\netcoreapp3.1\StateManagementDemo.runtimeconfig.json
+C:\Users\lioni\OneDrive\Desktop\Lab Reports\6thsem\NCC\c#files\StateManagementDemo\StateManagementDemo\bin\Debug\netcoreapp3.1\StateManagementDemo.runtimeconfig.dev.json
+C:\Users\lioni\OneDrive\Desktop\Lab Reports\6thsem\NCC\c#files\StateManagementDemo\StateManagementDemo\bin\Debug\netcoreapp3.1\StateManagementDemo.dll
+C:\Users\lioni\OneDrive\Desktop\Lab Reports\6thsem\NCC\c#files\StateManagementDemo\StateManagementDemo\bin\Debug\netcoreapp3.1\StateManagementDemo.pdb
+C:\Users\lioni\OneDrive\Desktop\Lab Reports\6thsem\NCC\c#files\StateManagementDemo\StateManagementDemo\bin\Debug\netcoreapp3.1\StateManagementDemo.Views.dll
+C:\Users\lioni\OneDrive\Desktop\Lab Reports\6thsem\NCC\c#files\StateManagementDemo\StateManagementDemo\bin\Debug\netcoreapp3.1\StateManagementDemo.Views.pdb
+C:\Users\lioni\OneDrive\Desktop\Lab Reports\6thsem\NCC\c#files\StateManagementDemo\StateManagementDemo\obj\Debug\netcoreapp3.1\StateManagementDemo.csproj.AssemblyReference.cache
+C:\Users\lioni\OneDrive\Desktop\Lab Reports\6thsem\NCC\c#files\StateManagementDemo\StateManagementDemo\obj\Debug\netcoreapp3.1\StateManagementDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lioni\OneDrive\Desktop\Lab Reports\6thsem\NCC\c#files\StateManagementDemo\StateManagementDemo\obj\Debug\netcoreapp3.1\StateManagementDemo.AssemblyInfoInputs.cache
+C:\Users\lioni\OneDrive\Desktop\Lab Reports\6thsem\NCC\c#files\StateManagementDemo\StateManagementDemo\obj\Debug\netcoreapp3.1\StateManagementDemo.AssemblyInfo.cs
+C:\Users\lioni\OneDrive\Desktop\Lab Reports\6thsem\NCC\c#files\StateManagementDemo\StateManagementDemo\obj\Debug\netcoreapp3.1\StateManagementDemo.csproj.CoreCompileInputs.cache
+C:\Users\lioni\OneDrive\Desktop\Lab Reports\6thsem\NCC\c#files\StateManagementDemo\StateManagementDemo\obj\Debug\netcoreapp3.1\StateManagementDemo.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\lioni\OneDrive\Desktop\Lab Reports\6thsem\NCC\c#files\StateManagementDemo\StateManagementDemo\obj\Debug\netcoreapp3.1\StateManagementDemo.RazorAssemblyInfo.cache
+C:\Users\lioni\OneDrive\Desktop\Lab Reports\6thsem\NCC\c#files\StateManagementDemo\StateManagementDemo\obj\Debug\netcoreapp3.1\StateManagementDemo.RazorAssemblyInfo.cs
+C:\Users\lioni\OneDrive\Desktop\Lab Reports\6thsem\NCC\c#files\StateManagementDemo\StateManagementDemo\obj\Debug\netcoreapp3.1\staticwebassets\StateManagementDemo.StaticWebAssets.Manifest.cache
+C:\Users\lioni\OneDrive\Desktop\Lab Reports\6thsem\NCC\c#files\StateManagementDemo\StateManagementDemo\obj\Debug\netcoreapp3.1\StateManagementDemo.TagHelpers.input.cache
+C:\Users\lioni\OneDrive\Desktop\Lab Reports\6thsem\NCC\c#files\StateManagementDemo\StateManagementDemo\obj\Debug\netcoreapp3.1\StateManagementDemo.TagHelpers.output.cache
+C:\Users\lioni\OneDrive\Desktop\Lab Reports\6thsem\NCC\c#files\StateManagementDemo\StateManagementDemo\obj\Debug\netcoreapp3.1\StateManagementDemo.RazorCoreGenerate.cache
+C:\Users\lioni\OneDrive\Desktop\Lab Reports\6thsem\NCC\c#files\StateManagementDemo\StateManagementDemo\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\lioni\OneDrive\Desktop\Lab Reports\6thsem\NCC\c#files\StateManagementDemo\StateManagementDemo\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\lioni\OneDrive\Desktop\Lab Reports\6thsem\NCC\c#files\StateManagementDemo\StateManagementDemo\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\lioni\OneDrive\Desktop\Lab Reports\6thsem\NCC\c#files\StateManagementDemo\StateManagementDemo\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\lioni\OneDrive\Desktop\Lab Reports\6thsem\NCC\c#files\StateManagementDemo\StateManagementDemo\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\lioni\OneDrive\Desktop\Lab Reports\6thsem\NCC\c#files\StateManagementDemo\StateManagementDemo\obj\Debug\netcoreapp3.1\Razor\Views\Temp\First.cshtml.g.cs
+C:\Users\lioni\OneDrive\Desktop\Lab Reports\6thsem\NCC\c#files\StateManagementDemo\StateManagementDemo\obj\Debug\netcoreapp3.1\Razor\Views\Temp\Second.cshtml.g.cs
+C:\Users\lioni\OneDrive\Desktop\Lab Reports\6thsem\NCC\c#files\StateManagementDemo\StateManagementDemo\obj\Debug\netcoreapp3.1\Razor\Views\Temp\Third.cshtml.g.cs
+C:\Users\lioni\OneDrive\Desktop\Lab Reports\6thsem\NCC\c#files\StateManagementDemo\StateManagementDemo\obj\Debug\netcoreapp3.1\Razor\Views\Welcome\Get.cshtml.g.cs
+C:\Users\lioni\OneDrive\Desktop\Lab Reports\6thsem\NCC\c#files\StateManagementDemo\StateManagementDemo\obj\Debug\netcoreapp3.1\Razor\Views\Welcome\GetQueryString.cshtml.g.cs
+C:\Users\lioni\OneDrive\Desktop\Lab Reports\6thsem\NCC\c#files\StateManagementDemo\StateManagementDemo\obj\Debug\netcoreapp3.1\Razor\Views\Welcome\Index.cshtml.g.cs
+C:\Users\lioni\OneDrive\Desktop\Lab Reports\6thsem\NCC\c#files\StateManagementDemo\StateManagementDemo\obj\Debug\netcoreapp3.1\Razor\Views\Welcome\SetHiddenFieldValue.cshtml.g.cs
+C:\Users\lioni\OneDrive\Desktop\Lab Reports\6thsem\NCC\c#files\StateManagementDemo\StateManagementDemo\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\lioni\OneDrive\Desktop\Lab Reports\6thsem\NCC\c#files\StateManagementDemo\StateManagementDemo\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\lioni\OneDrive\Desktop\Lab Reports\6thsem\NCC\c#files\StateManagementDemo\StateManagementDemo\obj\Debug\netcoreapp3.1\StateManagementDemo.RazorTargetAssemblyInfo.cache
+C:\Users\lioni\OneDrive\Desktop\Lab Reports\6thsem\NCC\c#files\StateManagementDemo\StateManagementDemo\obj\Debug\netcoreapp3.1\StateManagementDemo.RazorTargetAssemblyInfo.cs
+C:\Users\lioni\OneDrive\Desktop\Lab Reports\6thsem\NCC\c#files\StateManagementDemo\StateManagementDemo\obj\Debug\netcoreapp3.1\StateManagementDemo.Views.pdb
+C:\Users\lioni\OneDrive\Desktop\Lab Reports\6thsem\NCC\c#files\StateManagementDemo\StateManagementDemo\obj\Debug\netcoreapp3.1\StateManagementDemo.dll
+C:\Users\lioni\OneDrive\Desktop\Lab Reports\6thsem\NCC\c#files\StateManagementDemo\StateManagementDemo\obj\Debug\netcoreapp3.1\StateManagementDemo.pdb
+C:\Users\lioni\OneDrive\Desktop\Lab Reports\6thsem\NCC\c#files\StateManagementDemo\StateManagementDemo\obj\Debug\netcoreapp3.1\StateManagementDemo.genruntimeconfig.cache
+C:\Users\lioni\OneDrive\Desktop\Lab Reports\6thsem\NCC\c#files\StateManagementDemo\StateManagementDemo\obj\Debug\netcoreapp3.1\StateManagementDemo.csproj.CopyComplete
